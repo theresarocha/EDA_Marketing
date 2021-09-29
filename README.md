@@ -12,7 +12,7 @@ Esta análise tem por objetivo responder as seguintes perguntas:
 
 - Qual o perfil de clientes desta empresa?
 - Qual campanha de marketing teve mais sucesso?
-- Existe alguma relação significativa entre a região geográfica do cliente e o sucesso de uma campanha? Renda salarial
+- Existe alguma relação significativa entre a região geográfica do cliente e o sucesso de uma campanha? 
 - Clientes com dependentes em casa, quais produtos mais consumidos? E os menos consumidos? Há alguma relação com o grau de instrução destas pessoas?
 - Quais produtos estão performando melhor? E quais estão performando pior?
 - Quais canais estão com baixo desempenho?
