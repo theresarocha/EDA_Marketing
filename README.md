@@ -6,17 +6,15 @@ Ferramenta: Python
 
 ## Objetivo
 
-Análise exploratória de dados de uma campanha de marketing com 2240 clientes da empresa XYZ. 
-
+Análise exploratória de dados de uma campanha de marketing com 2240 clientes da empresa XYZ.
 Esta análise tem por objetivo responder as seguintes perguntas:
 
 - Qual o perfil de clientes desta empresa?
 - Qual campanha de marketing teve mais sucesso?
-- Existe alguma relação significativa entre a região geográfica do cliente e o sucesso de uma campanha? 
-- Clientes com dependentes em casa, quais produtos mais consumidos? E os menos consumidos? Há alguma relação com o grau de instrução destas pessoas?
 - Quais produtos estão performando melhor? E quais estão performando pior?
-- Quais canais estão com baixo desempenho?
-- Quais fatores estão significativamente relacionados ao número de compras na loja?
+- Qual o desempenho dos canais de venda da empresa?
+- Qual a quantidade gasta em produto por país de localização do cliente?
+- Considerando o canal de vendas com melhor perfomance, qual a quantidade de compras realizadas em relação ao estado civil, grau de instrução e dependentes dos clientes?
 
 ## Fonte dos dados
 
