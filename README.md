@@ -13,7 +13,7 @@ Análise exploratória de dados de uma campanha de marketing com 2240 clientes d
 - Quais produtos estão performando melhor? E quais estão performando pior?
 - Qual o desempenho dos canais de venda da empresa?
 - Qual a quantidade gasta em produto por país de localização do cliente?
-- Considerando o canal de vendas com melhor perfomance, qual a quantidade de compras realizadas em relação a dependentes, estado civil e grau de instrução dos clientes?
+- Considerando o canal de vendas com melhor performance, qual a quantidade de compras realizadas em relação a dependentes, estado civil e grau de instrução dos clientes?
 
 ## Fonte dos dados
 
