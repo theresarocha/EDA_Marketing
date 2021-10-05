@@ -6,7 +6,9 @@ Ferramenta: Python
 
 ## Objetivo
 
-Análise exploratória de dados de marketing de uma empresa com 2240 clientes. Esta análise tem por objetivo responder as seguintes perguntas:
+Análise exploratória de dados de marketing de uma empresa com 2240 clientes. 
+
+Esta análise tem por objetivo responder as seguintes perguntas:
 
 - Qual o perfil de clientes desta empresa?
 - Qual campanha de marketing teve mais sucesso?
